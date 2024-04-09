@@ -1,4 +1,4 @@
-I'm Zenaid! I'm studying CS at Emory University.
+I'm Zenaid! I'm a CS student.
 I like birds.
 
 <!---
