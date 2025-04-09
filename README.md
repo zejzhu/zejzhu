@@ -1,7 +1,7 @@
 I'm Zenaid! I'm a CS student.  
 I like birds.
 <div>
-<(*)____//<br>
+<( * )____//<br>
  ( (___//<br>
    ----<br>
    ^ ^
