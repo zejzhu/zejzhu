@@ -2,7 +2,7 @@ I'm Zenaid! I'm a CS student.
 I like birds.
 <div>
 <( * )____//<br>
-&nbsp;&nbsp;(   (___//<br>
+&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;(___//<br>
 &nbsp;&nbsp;&nbsp;&nbsp;----<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;^ ^
 </div>
