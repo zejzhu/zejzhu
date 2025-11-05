@@ -1,5 +1,10 @@
-### I'm Zenaid!
-I like birds.
+**I'm Zenaid** (pronounced zen-EYED).
+I want to use my technical knowledge + communication strategies to keep people (and their information) safe.
+
+Currently preparing for Sec+
+
+
+
 <div>
 <( * )____/ /<br>
 &nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;(___/ /<br>
