@@ -1,7 +1,4 @@
 **I'm Zenaid** (pronounced zen-EYED).
-I want to use my technical knowledge + communication strategies to keep people (and their information) safe.
-
-Currently preparing for Sec+
 
 
 
